@@ -13,6 +13,7 @@
 - <a href="http://meyerweb.com/eric/tools/css/reset/">CSS Reset</a>
 - <a href="http://necolas.github.com/normalize.css/">CSS Normalize</a>
 - <a href="https://www.google.com.au/search?q=ascii+table&aq=0&oq=asci+&aqs=chrome.1.57j0l3j62l2.3535j0&sourceid=chrome&ie=UTF-8">ASCII Table</a>
+- <a href="http://designshack.net/articles/inspiration/30-useful-and-hilarious-lorem-ipsum-generators/">Dummy Text Generators</a>
 
 ## Day 2: Layouts & Floats
 
