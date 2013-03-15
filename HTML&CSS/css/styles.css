@@ -1,58 +1,13 @@
 /*CSS Styles*/
 
-body {
-	background: url('../images/bg/retina_wood.png') center center repeat transparent;
-	font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;
-	font-size:10px;
-	color:#414141;
-}
+/*Colors
 
-#container {
-	width:960px;
-	margin:0 auto;
-}
+#388EA8
+#349D91
+#C44F67
+#C89E5B
+#C77A57
+#577CC7
+#D071C2
 
-
-.header {
-	padding: 2em 1em 1em;
-	margin-bottom:20px;
-}
-
-.header h1 {
-	color:white;
-	line-height: 1;
-	text-shadow: -1px -1px 1px #000, 1px 1px 1px #fff;
-}
-
-/*Main Styles*/
-
-article {
-	background: #fff;
-	box-shadow: 1px 2px 6px rgba(0,0,0,0.4);
-	margin-bottom:20px;
-}
-
-article header {
-	padding:2em 1em;
-}
-
-article header h2 {
-	color:#fff;
-	font-weight: 300;
-	line-height: 1;
-
-}
-
-article section {
-	background: white;
-	padding:2em 1em;
-}
-
-/*HEADINGS*/
-.headings {
-	background:#388EA8;
-	}
-
-.text {
-	background:#349D91;
-}
+*/
