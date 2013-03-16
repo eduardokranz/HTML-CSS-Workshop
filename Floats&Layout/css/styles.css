@@ -1,0 +1,35 @@
+/*CSS Styles*/
+
+/* Font Stacks
+Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+
+"Helvetica Neue", Helvetica, Arial, sans-serif;
+
+#343F9D
+#C3874B
+#ECEEF9
+#122336
+*/
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/*STYLES*/
+
+#container {
+	width:960px;
+	margin: 0 auto;
+
+}
+

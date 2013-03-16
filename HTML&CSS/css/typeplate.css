@@ -212,14 +212,6 @@ abbr:hover {
 	cursor: help;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-	color: #222222;
-}
 
 .drop-cap:first-letter {
 	float: left;
