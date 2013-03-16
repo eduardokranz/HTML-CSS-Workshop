@@ -21,3 +21,10 @@
 - Setting up navigation
 - Floats and Clear
 - 2 column layout
+
+### Day 2 Reference
+
+- <a href="http://codepen.io/">Codepen - nuggets of HTML, CSS and Javascript</a>
+- <a href="http://sidebar.io/">Sidebar.io - Top 5 links of the day</a>
+<a href="http://shoptalkshow.com/">Shop Talk Show - Front end web development Podcast</a>
+- <a href="http://nonbreakingspace.tv/">The Non Breaking Space Podcast</a>
