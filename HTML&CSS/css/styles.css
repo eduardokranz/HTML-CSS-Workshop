@@ -50,9 +50,13 @@ article header {
 
 article header h2 {
 	font-size:30px;
-	text-shadow: 2         px 2px 0 rgba(0,0,0,0.8);
+	text-shadow: 2px 2px 0 rgba(0,0,0,0.3);
+	margin:15px 0 5px;
 }
 
+article header p {
+	margin-top:5px;
+}
 
 .content {
 	background: #ffffff;
@@ -61,13 +65,11 @@ article header h2 {
 }
 
 
+
+
 /*HEADINGS STYLE*/
 #headings header{
 	background: #388EA8;
-}
-
-#headings header h2 {
-	font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
 }
 
 /*TEXT STYLE*/
@@ -75,20 +77,32 @@ article header h2 {
 	background: #349D91;
 }
 
+#text blockquote {
+	border-left:3px solid #666;
+	background: #dedede;
+	font-style: italic;
+	margin:10px 0;
+	padding:20px;
+}
+
 /*IMAGES STYLE*/
 #images header {
 	background:#C44F67;
+}
+#images h4 {
+	border-bottom: 1px dotted #414141;
+}
+#images img {
+	vertical-align: middle;
 }
 
 /*LIST STYLE*/
 #lists header {
 	background:#C89E5B;
 }
-
 #lists h4 {
 	border-bottom: 1px dotted #414141;
 }
-
 #lists li {
 	font-size:20px;
 }
@@ -120,8 +134,15 @@ article header h2 {
 	font-family:Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
 } 
 
+/*YOUTUBE STYLE*/
+#youtube header {
+	background:#C77A57;
+}
 
-
+/*GOOGLE MAPS STYLE*/
+#map header {
+	background:#577CC7;
+}
 
 
 
